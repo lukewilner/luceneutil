@@ -33,6 +33,7 @@ DATA_FILES = [
   # ("https://luceneutil-corpus-files.s3.ca-central-1.amazonaws.com/cohere-wikipedia-docs-768d.vec", "cohere-wikipedia-docs-768d.vec"),
   ("https://luceneutil-corpus-files.s3.ca-central-1.amazonaws.com/cohere-wikipedia-docs-5M-768d.vec", "cohere-wikipedia-docs-5M-768d.vec"),
   ("https://luceneutil-corpus-files.s3.ca-central-1.amazonaws.com/cohere-wikipedia-queries-768d.vec", "cohere-wikipedia-queries-768d.vec"),
+  ("https://luceneutil-corpus-files.s3.ca-central-1.amazonaws.com/cohere-wikipedia-metadata.csv", "cohere-wikipedia-metadata.csv)"), 
   ("https://downloads.cs.stanford.edu/nlp/data/glove.6B.zip", "glove.6B.zip"),
 ]
 
